@@ -9,6 +9,7 @@
 - [kuzzle](https://kuzzle.io/) - IoT Platform as-a-Service
 - [novu](https://github.com/novuhq/novu) - open-source notification infrastructure for products
 - [CubeJS](https://cube.dev/) - Data Analytics
+- [Cal.com](https://cal.com/) - Schedule meetings
 
 ## Misc
 
