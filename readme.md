@@ -10,11 +10,15 @@
 - [novu](https://github.com/novuhq/novu) - open-source notification infrastructure for products
 - [CubeJS](https://cube.dev/) - Data Analytics
 - [Cal.com](https://cal.com/) - Schedule meetings
+- [React-JSON-Form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 
 ## Misc
 
 - [ESP Home](https://esphome.io/) - IoT and automation
 - [ERP Next](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [Superset](https://superset.apache.org/) - data exploration and visualization platform
-
+- [Redash](https://github.com/getredash/redash) - Connect to any data source, easily visualize, dashboard and share your data.
+- [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.
+- [appwrite](https://github.com/appwrite/appwrite) -  Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
